@@ -2,6 +2,7 @@
 A Series Of Non Useful Cogs (ASONUC) | A Repository Of Discord.py Cogs That I Create That May Or May Not Be Really Useless
 
 Requirements:
+  Python | Tested & Working With v3.6
   Discord.py by @Rapptz | Tested & Working With [v0.16.12] | https://github.com/Rapptz/discord.py/releases/tag/v0.16.12
   
 Setup:
