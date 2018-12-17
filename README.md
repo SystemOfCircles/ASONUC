@@ -1,16 +1,23 @@
 # ASONUC
-A Series Of Non Useful Cogs (ASONUC) | A Repository Of Discord.py Cogs That I Create That May Or May Not Be Really Useless
 
-Requirements:
-  Python | Tested & Working With v3.6
-  Discord.py by @Rapptz | Tested & Working With [v0.16.12] | https://github.com/Rapptz/discord.py/releases/tag/v0.16.12
+A Series Of Non Useful Cogs (ASONUC) Is A Repository Of Discord py Cogs That May Or May Not Be Really Useless.
+
+  - ASONUC Is Primarily Designed To Allow The Cogs To Be Loaded By Any Bot. 
   
-Setup:
-  1. (Optional) Change The Bot Prefix In config.py | Default: -
-  2. Replace 'YOUR_TOKEN_HERE' In config.py With Your Bot Token
-  3. Run bot.py
-  
-Information:
-  All Of The Files In This Repo Are Free To Use, Repurpose, Re-release, Contribute To, etc.
-  
-  That's About It... Enjoy!
+  - A Basic Bot File Is Included That Automatically Loads All Cogs In The Cogs Folder For Testing.
+
+### Installation
+
+ASONUC Requires [Python](https://www.python.org/downloads/release/python-360/) v3.6 and [Discord.py](https://github.com/Rapptz/discord.py/releases/tag/v0.16.12) v0.16.12 to run.
+
+  - Set The Bot's Prefix & Token In The Config
+  - Run Bot
+
+### Todo
+
+ - ¯\\\_(ツ)_/¯
+
+License
+----
+
+MIT
